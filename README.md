@@ -46,7 +46,6 @@ accuracy
 
 ## Output:
 ![Screenshot 2023-06-02 142247](https://github.com/221040055/Implementation-of-SVM-For-Spam-Mail-Detection/assets/135315330/4c1228f8-682b-4192-acf7-a6c32e55e7a2)
-
 ![Screenshot 2023-06-02 142300](https://github.com/221040055/Implementation-of-SVM-For-Spam-Mail-Detection/assets/135315330/394ffa46-9bac-4a77-b119-f4728542407b)
 
 
